@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pascal-tire.example/sitemap.xml
